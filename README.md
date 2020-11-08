@@ -1,7 +1,9 @@
 ### Well Hello 👋
+#### My Github-self is happy to e-meet you, 
 ```
-My Github-self is happy to e-meet you, 
-I'm passionate about developing privacy preserving deep learning models ( specifically Federated Learning Systems ) and voice modelling architectures. Most of the work I have contributed to can be found here barring the research that I am doing over the summer. If you find any critical inaqequacies in the work on this profile (I am quite sure, there are many :) or have any questions about the work staged on this repo, you can reach out to me via any of the contacts listed on my website.  
+I'm passionate about developing privacy preserving deep learning models ( specifically Federated Learning Systems ) and voice modelling architectures.Most of the work I have contributed to can be found here. 
+
+If you find any critical inaqequacies in the work on this profile (I am quite sure, there are many 🤔) or have any questions about the work staged on this repository, you can reach out to me via my website. 
 ```
 Thanks! 
 <!--
