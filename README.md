@@ -1,9 +1,8 @@
 ### Well Hello 👋
 #### My Github-self is happy to e-meet you, 
 ```
-I'm passionate about developing neural machine translation systems and privacy preserving deep learning models (specifically Federated Learning Systems). Most of the work I have contributed to can be found here. I’m currently working as a SCAI Center Fellow at Microsoft Research India. 
-
-
+I'm passionate about developing neural machine translation systems and privacy preserving deep learning models (specifically Federated Learning Systems). 
+Most of the work I have contributed to can be found here. I’m currently working as a SCAI Center Fellow at Microsoft Research India. 
 If you find any critical inaqequacies in the work on this profile (I am quite sure, there are many 🤔) or have any questions about the work staged on this repository, you can reach out to me via my website. 
 ```
 Thanks! 
